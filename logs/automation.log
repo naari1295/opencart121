@@ -1,0 +1,59 @@
+2026-05-20 15:09:17 INFO  - Application Launched
+2026-05-20 15:09:17 INFO  - ***** Starting Registration Test *****
+2026-05-20 15:09:19 INFO  - Registration Passed
+2026-05-20 15:09:19 INFO  - Browser Closed
+2026-05-20 15:09:23 INFO  - Application Launched
+2026-05-20 15:09:23 INFO  - ***** Starting Login Test *****
+2026-05-20 15:09:25 INFO  - Login Passed
+2026-05-20 15:09:25 INFO  - ***** Finished Login Test *****
+2026-05-20 15:09:25 INFO  - Browser Closed
+2026-05-20 15:09:30 INFO  - Application Launched
+2026-05-20 15:09:30 INFO  - ***** Starting TC003_LoginDDT *****
+2026-05-20 15:09:30 INFO  - Clicking My Account
+2026-05-20 15:09:30 INFO  - Clicking Login
+2026-05-20 15:09:30 INFO  - Entering Email
+2026-05-20 15:09:30 INFO  - Entering Password
+2026-05-20 15:09:30 INFO  - Clicking Login Button
+2026-05-20 15:09:31 INFO  - Login Passed with Valid Data
+2026-05-20 15:09:33 INFO  - ***** Finished TC003_LoginDDT *****
+2026-05-20 15:09:33 INFO  - Browser Closed
+2026-05-20 15:09:37 INFO  - Application Launched
+2026-05-20 15:09:37 INFO  - ***** Starting TC003_LoginDDT *****
+2026-05-20 15:09:37 INFO  - Clicking My Account
+2026-05-20 15:09:37 INFO  - Clicking Login
+2026-05-20 15:09:37 INFO  - Entering Email
+2026-05-20 15:09:37 INFO  - Entering Password
+2026-05-20 15:09:37 INFO  - Clicking Login Button
+2026-05-20 15:09:38 INFO  - Login Passed with Valid Data
+2026-05-20 15:09:40 INFO  - ***** Finished TC003_LoginDDT *****
+2026-05-20 15:09:40 INFO  - Browser Closed
+2026-05-20 15:09:44 INFO  - Application Launched
+2026-05-20 15:09:44 INFO  - ***** Starting TC003_LoginDDT *****
+2026-05-20 15:09:44 INFO  - Clicking My Account
+2026-05-20 15:09:44 INFO  - Clicking Login
+2026-05-20 15:09:44 INFO  - Entering Email
+2026-05-20 15:09:44 INFO  - Entering Password
+2026-05-20 15:09:44 INFO  - Clicking Login Button
+2026-05-20 15:09:55 INFO  - Login Failed as Expected
+2026-05-20 15:09:56 INFO  - ***** Finished TC003_LoginDDT *****
+2026-05-20 15:09:56 INFO  - Browser Closed
+2026-05-20 15:10:00 INFO  - Application Launched
+2026-05-20 15:10:00 INFO  - ***** Starting TC003_LoginDDT *****
+2026-05-20 15:10:00 INFO  - Clicking My Account
+2026-05-20 15:10:00 INFO  - Clicking Login
+2026-05-20 15:10:01 INFO  - Entering Email
+2026-05-20 15:10:01 INFO  - Entering Password
+2026-05-20 15:10:01 INFO  - Clicking Login Button
+2026-05-20 15:10:17 INFO  - Login Failed as Expected
+2026-05-20 15:10:18 INFO  - ***** Finished TC003_LoginDDT *****
+2026-05-20 15:10:18 INFO  - Browser Closed
+2026-05-20 15:10:23 INFO  - Application Launched
+2026-05-20 15:10:23 INFO  - ***** Starting TC003_LoginDDT *****
+2026-05-20 15:10:23 INFO  - Clicking My Account
+2026-05-20 15:10:23 INFO  - Clicking Login
+2026-05-20 15:10:23 INFO  - Entering Email
+2026-05-20 15:10:23 INFO  - Entering Password
+2026-05-20 15:10:23 INFO  - Clicking Login Button
+2026-05-20 15:10:25 INFO  - Login Passed with Valid Data
+2026-05-20 15:10:26 INFO  - ***** Finished TC003_LoginDDT *****
+2026-05-20 15:10:26 INFO  - Browser Closed

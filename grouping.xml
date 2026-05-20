@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+
+    <listeners>
+        <listener class-name=
+        "utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="OpenCartTest">
+
+        <parameter name="browser"
+                   value="chrome"/>
+
+        <parameter name="os"
+                   value="windows"/>
+
+        <groups>
+            <run>
+
+                <!-- <include name="Regression"/> -->
+
+                <include name="Master"/>
+                <include name="Datadriven"/>
+                
+
+            </run>
+        </groups>
+
+        <classes>
+
+            <class name=
+            "testcases.Tc001_AccountRegistrationTest"/> 
+
+            <class name=
+            "testcases.TC002_LoginTest"/>
+
+            
+            <class name=
+            "testcases.TC003_LoginDDT"/>
+            
+
+        </classes>
+
+    </test>
+
+</suite>
